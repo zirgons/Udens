@@ -1,0 +1,220 @@
+{
+	"control points": [
+		{
+			"name": "Dienvidu mols",
+			"coord": [ 56.52129260290138, 20.9802704028363 ],
+			"water": "Baltijas jūra",
+			"info": "Dienvidu mols atrodas uz ziemeļiem no pilsētas centra pludmales, un tas kalpo kā nozīmīgs Liepājas ostas aizsargs. Lai līdz tam nokļūtu, jādodas nesteidzīgā pastaigā pa pludmali. Mašīnu var atstāt stāvvietās Kūrmājas prospekta vai Roņu ielas galā. Dienvidu mola garums ir vairāk nekā 700 metri, no kuriem aptuveni 200 metri ir ērti staigājami pa līdzenu segumu. Tālāk seko akmeņu krāvumi, pa kuriem pārvietoties var būt izaicinājums un atrakcija piedzīvojuma alkstošajiem. Ja būsi vērīgs, uz akmeņiem ieraudzīsi „krastā izlēkušas zivis”, kas ir Liepājas mākslinieces Ivonnas Kalitas radīts darbs kā veltījums savai pilsētai.\n\nJautājumi būs par atkritumu savākšanu un šķirošanu.",
+			"questions": [
+				{
+					"question": "Kādus plastmasa priekšmetus/iepakojumus drīkst nodot otrreizējai apstrādei?",
+					"answers": [ "Netīrus, taukainus iepakojumus", "Sadzīves priekšmetus", "Pudeles, trauciņus, kastītes" ],
+					"answer": 2
+				},
+				{
+					"question": "Kādas krāsas šķirošanas konteiners tiek parasti lietots stikla priekšmetiem?",
+					"answers": [ "Zaļas krāsas konteiners", "Dzeltenas krāsas konteiners", "Zilas krāsas konteiners" ],
+					"answer": 0
+				},
+				{
+					"question": "Kurš no apgalvojumiem ir patiess?",
+					"answers": [ "Drīkst šķirot higiēnas preces un izkārnījumus", "Drīkst šķirot tējas un kafijas biezumus", "Drīkst šķirot iepakojumā ievietotus bioloģiskos atkritumus", "Drīkst šķirot otrreizējās izejvielas" ],
+					"answer": 1
+				}
+			],
+			"game": ""
+		},
+		{
+			"name": "Pludmale",
+			"coord": [ 56.49880702269711, 20.99298242869558 ],
+			"water": "Baltijas jūra",
+			"info": "Visā tās garumā sev tīkamu atpūtu atradīs ikviens – gan kaitsērfinga un vindsērfinga entuziasti, kā arī aktīvās atpūtas mīļotāji, gan klusas un neskartas dabas piekritēji, tāpat kā ērtību cienītāji un pat aizraujošu skatu meklētāji. Pludmales informatīvajās zīmēs atrodamas norādes par pludmales izmantošanu.\n\nJautājumi būs par ūdens drošību.",
+			"questions": [
+				{
+					"question": "Ja iespējams, vai ir drošāk izvēlēties oficiālo peldvietu?",
+					"answers": [ "Jā", "Nē" ],
+					"answer": 0
+				},
+				{
+					"question": "Kādas peldvietas vajadzētu izvēlēties, ja nevar atrast oficiālo peldvietu?",
+					"answers": [ "Ar neredzamu vai nepamanāmu pamatu", "Ir aizaugusi", "Ar lēzenu krastu un cietu pamatu" ],
+					"answer": 2
+				},
+				{
+					"question": "Vai pārkarsis cilvēks drīkst uzreiz un ātri iet ūdeni?",
+					"answers": [ "Jā", "Nē" ],
+					"answer": 1
+				}
+			],
+			"game": ""
+		},
+		{
+			"name": "Ziemeļu forti",
+			"coord": [ 56.59109383881918, 21.014944502456505 ],
+			"water": "Baltijas jūra",
+			"info": "Ziemeļu forti ir zināmākā un vizuāli iespaidīgākā Liepājas cietokšņa daļa. To vēsturiskais nosaukums ir Cietokšņa baterija Nr. 1. Ziemeļu forti tāpat kā Karosta padomju laikā bija slēgta militāra teritorija, taču šodien daļēji saspridzinātos vēstures labirintus ir iespējams brīvi apskatīt. Tomēr, apmeklējot Ziemeļu fortus, jābūt ļoti uzmanīgiem. Baltijas jūras stāvkrasts Karostā, tāpat kā citviet Latvijas piekrastē, ir bīstams, un krasts var iebrukt. Tāpēc aizliegts staigāt zem fortu drupām.",
+			"questions": [],
+			"game": ""
+		},
+		{
+			"name": "Zirgu sala",
+			"coord": [ 56.51891630054808, 21.04052455043206 ],
+			"water": "Liepājas ezers",
+			"info": "Zirgu sala ir lielākā no Liepājas ezera salām. 2018. gadā izbūvējot dabas taku, sakopta teritorija 1,75 hektāru platībā. Teritorijā izveidotas dobes 1 950 kvadrātmetru platībā, kopumā iestādot 14,6 tūkstošus graudzāļu un medus augu stādu. Tāpat izbūvēta puskilometru gara pastaigu taka ar  šķembu segumu un koka laipas ar divām skatu platformām virs ezera ūdenslīmeņa.  Dabas taka papildināta ar trīs āra trenažieriem, kā arī atpūtas vietām, kurās ir gan piknika galdi ar soliem un atkritumu urnām, gan arī ugunskura vietas.",
+			"questions": [],
+			"game": ""
+		},
+		{
+			"name": "Atteku sala",
+			"coord": [ 56.5140057635162, 21.02948624972549 ],
+			"water": "Liepājas ezers",
+			"info": "1986. Izglītības un zinātnes ministrijas īpašums. Apsaimniekotājs ir joprojām tās pakļautībā esošā Jūrniecības koledža. Tagad Kompleksās sporta skolas airēšanas nodaļa izvietojusies vairākos eliņos, kuri tiek īrēti no Jūrniecības koledžas.",
+			"questions": [],
+			"game": ""
+		},
+		{
+			"name": "Ezera laipas putnu vērošanas tornis",
+			"coord": [ 56.49321779500486, 21.030588123805682 ],
+			"water": "Liepājas ezers",
+			"info": "Pa Ezera laipu (Liepājas ezera palieņu pļavas) var nokļūt līdz putnu vērošanas tornim, no kura labi pārlūkojama ezera ziemeļdaļa. Laba putnu vērošanas vieta.\n\nJautājumi būs par putniem.",
+			"questions": [
+				{
+					"question": "Kurš ir lielākais putns Latvijā?",
+					"answers": [ "Garkaklis", "Lielais dumpis", "Jūras ērglis", "Melnais stārķis", "Lielā tilbīte" ],
+					"answer": 2
+				},
+				{
+					"question": "Kurš bija gada putns Latvijā 2023. gadā?",
+					"answers": [ "Lakstīgala", "Ķīķis", "Žubīte" ],
+					"answer": 0
+				},
+				{
+					"question": "Kurš ir mazākais putns Latvijā?",
+					"answers": [ "Mazais ķīris", "Zeltgalvītis", "Mazā sīga", "Vītītis" ],
+					"answer": 1
+				}
+			],
+			"game": ""
+		},
+		{
+			"name": "Tosmares ezers",
+			"coord": [ 56.58873263298218, 21.049835390248013 ],
+			"water": "",
+			"info": "Tosmares ezers arī ir lagūnas tipa ezers, bet dabisku procesu rezultātā ir gandrīz aizaudzis. Patlaban neaizauguši palikuši aptuveni 12% no ezera kādreizējās platības. Aizaugušo krastu dēļ ezers nav pieejams. Tajā pašā laikā ezers un tam pieguļošās pļavas ir nozīmīgas ūdensputnu ligzdošanas, barošanās, kā arī atpūtas vieta to caurceļošanas laikā. Tosmares ezers noteikts kā dabas liegums, jo šeit konstatētas ap 20 retu, apdraudētu augu sugu.\n\nJautājumi būs par zivīm.",
+			"questions": [
+				{
+					"question": "Kura zivs ir mūsdienās aizsargājam, uzturas pa vienam, sasniedz līdz pat 23 gadu vecumu Latvijā un ir zušu dzimtas zivju suga?",
+					"answers": [ "Vēdzele", "Sapals", "Zutis" ],
+					"answer": 2
+				},
+				{
+					"question": "Kura zivs ir saldūdens zivs, uzturas pa vienam, sasniedz līdz pat 13 gadu Latvijā un tās 60 miljonus gadus jau līda caur ūdeni?",
+					"answers": [ "Līdaka", "Vēdzele", "Ālants" ],
+					"answer": 0
+				},
+				{
+					"question": "Kura zivs ir saldūdens zivs, uzturas baros, sasniedz līdz pat 15 gadus vecumu Latvijā un tās vārdā ir šķidrums ko izdala acs?",
+					"answers": [ "Zandarts", "Vēdzele", "Asaris", "Rauda" ],
+					"answer": 2
+				}
+			],
+			"game": ""
+		},
+		{
+			"name": "Tirdzniecības kanāls",
+			"coord": [ 56.51485572811526, 21.0045964624318524 ],
+			"water": "",
+			"info": "Tirdzniecības kanāla garums ir trīs kilometri, tas savieno Liepājas ezeru ar Baltijas jūru un atdala Vecliepāju no Jaunliepājas. Tirdzniecības kanāls ir vieta, kur baudīt atpūtu uz ūdens, izbraucot ar katamarānu, laivu, plostu vai pat pirti uz peldošas mājas! Dažādām atpūtas iespējām ir atvēlēta vieta, sākot no Tramvaja tilta virzienā uz Liepājas ezeru. Tirdzniecības kanāls nav iedomājams arī bez makšķerniekiem, jo īpaši ziemā, kad var noķert salakas jeb stintes, kā tās sauc vietējie. Tās ir nelielas, savdabīgas zivis, kas smaržo pēc svaigiem gurķiem.\n\nAizraujoša makšķernieku spēle.",
+			"questions": [],
+			"game": "makšķernieks"
+		},
+		{
+			"name": "Karostas kanāls",
+			"coord": [ 56.54301538782641, 21.02240138645089 ],
+			"water": "",
+			"info": "Karostas kanāls bija viena no pirmajām būvēm visā Karostas kompleksā. Pār Karostas kanāla ir Oskara Kalpaka tilts.\n\nJautājumi būs par vēsturi.",
+			"questions": [
+				{
+					"question": "Kad tika uzcelts Karostas cietums?",
+					"answers": [ "Ap 1900. gadu", "Pirms 1900. gada", "Ap 1930. gadu" ],
+					"answer": 1
+				},
+				{
+					"question": "Līdz kuram gadam Karostas cietumā tika turēti ieslodzītie?",
+					"answers": [ "Līdz 1876. gadam", "Līdz 1997. gadam", "Tur vēl jo projām tur ieslodzītos" ],
+					"answer": 1
+				},
+				{
+					"question": "Kad tika sākta karostas celtniecība?",
+					"answers": [ "1860. gadā", "1880. gadā", "1890. gadā", "1920. gadā" ],
+					"answer": 2
+				}
+			],
+			"game": ""
+		},
+		{
+			"name": "Beberliņu ūdenskrātuve",
+			"coord": [ 56.56461517546438, 21.018916641121105 ],
+			"water": "",
+			"info": "Šobrīd Beberliņu teritorija tiek plaši izmantota rekreācijā gan ziemā, gan vasarā. Tā ir populāra aktīvās atpūtas un pikniku vieta, kur var izmēģināt spēkus vefikparka trasē vai trošu atrakciju parkā, laivot vai vienkārši baudīt saules starus gleznaina piejūras priežu meža ielokā. Ap ūdenskrātuvi attīstās arī citi tūrisma objekti – kempings, gaisa šķēršļu trase, baskāju taka.",
+			"questions": [],
+			"game": ""
+		},
+		{
+			"name": "Dienvidu forti",
+			"coord": [ 56.47855002541922, 21.005977547411977 ],
+			"water": "Cietokšņa kanāls “Pakaviņš”",
+			"info": "Liepājas Dienvidu fortus var atrast blakus Klaipēdas ielas un Ganību ielas krustojumam. Uz Ganību ielas pat neliela automašīnu stāvvieta, bet Dienvidu forts atrodas Klaipēdas ielas malā, uz jūras pusi.",
+			"questions": [],
+			"game": ""
+		},
+		{
+			"name": "Pērkones kanāls",
+			"coord": [ 56.47890785213464, 21.019786107711838 ],
+			"water": "",
+			"info": "Sena Liepājas ezera noteka uz Baltijas jūru Liepājas pilsētā, pie tās dienvidu robežas, kas tagad no jūras puses aizsērējusi.",
+			"questions": [],
+			"game": ""
+		},
+		{
+			"name": "Ziemeļu forts",
+			"coord": [ 56.579051220410996, 21.0422307022558 ],
+			"water": "Cietokšņa kanāls",
+			"info": "Cietokšņa kanālā pirms ietekas jūrā kreisajā krastā ir redzami Ziemeļu nocietinājumi, ko mūsdienās dēvē par Ziemeļu fortiem.",
+			"questions": [],
+			"game": ""
+		},
+		{
+			"name": "Vidus forts",
+			"coord": [ 56.5429880733055, 21.083691055819376 ],
+			"water": "Cietokšņa kanāls",
+			"info": "Atrodas pie Cietokšņa kanāla.",
+			"questions": [],
+			"game": ""
+		},
+		{
+			"name": "Austrumu forts",
+			"coord": [ 56.53337243925867, 21.073470165458566 ],
+			"water": "Cietokšņa kanāls",
+			"info": "Atrodas pie Cietokšņa kanāla.",
+			"questions": [],
+			"game": ""
+		},
+		{
+			"name": "Dabas liegums “Tosmare”",
+			"coord": [ 56.57967050666527, 21.057724833362464 ],
+			"water": "Cietokšņa kanāls",
+			"info": "Iekļauj Tosmares ezeru un tā apkārtni. Izveidots 1999. gadā, lai aizsargātu lagūnas tipa piejūras ezeru — eitrofu ezeru ar iegrimušo ūdensaugu un peldaugu augāju.",
+			"questions": [],
+			"game": ""
+		},
+		{
+			"name": "Dabas liegums “Liepājas ezers”",
+			"coord": [ 56.50265868064692, 21.039789453068046 ],
+			"water": "Cietokšņa kanāls",
+			"info": "Iekļauj Liepājas ezeru un tā piekrasti. 82% no dabas lieguma ir ezers, bet pārējā daļa ir meži, pļavas un pārmitras ezera piekrastes daļas. Teritorija iekļauta starptautiskajā putniem nozīmīgo vietu sarakstā.",
+			"questions": [],
+			"game": ""
+		}
+	]
+}
