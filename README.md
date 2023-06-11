@@ -1,0 +1,2 @@
+# Udens
+Liepajas Datorzinatnu Olimpiadei
